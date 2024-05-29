@@ -1,16 +1,12 @@
 # Hola 👋, soy Katherine
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Estoy comenzando mi camino como desarrolladora de software Full Stack. Me especializo en JavaScript. Además, soy traductora de profesión en idiomas inglés - español y me dedico principalmente a la traducción de videojuegos y aplicaciones.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
-
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+Soy una persona apasionada por la tecnología y el mundo de la programación que busca complementar su quehacer profesional con el rubro TI.
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+Si quieres contactarme, lo puedes hacer a través de mi correo electrónico **<katherine.berrios.garcia@gmail.com>** o a través de **[Linkedin](https://www.linkedin.com/in/localization-videogame-it-spanish-translation/)**
 
 ### 🎨 Frontend
 
