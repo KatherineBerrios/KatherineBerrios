@@ -1,4 +1,4 @@
-# Hola 👋, soy Katherine
+# Hola 👋, soy Katherine Berríos
 
 Estoy comenzando mi camino como desarrolladora de software Full Stack. Me especializo en JavaScript. Además, soy traductora de profesión en idiomas inglés - español y me dedico principalmente a la traducción de videojuegos y aplicaciones.
 
